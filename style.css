@@ -1,0 +1,61 @@
+/* Odnosienie Do wszystkich elementów */
+html {
+color: black;
+font-family: 'Poppins', sans-serif;
+}
+/* header */
+header {
+    text-align: center;
+}
+h1 {
+    text-transform: uppercase;
+    font-weight: 620;
+    padding-bottom: 1px;
+}
+.head {
+  padding-top: 1px;
+  margin-top: -02%;
+}
+/* Main  */
+  /* Tekst Pierwszy */
+.tekst_ges,.koliber {
+    margin-top: 100px;
+    margin-left: 440px;
+    font-size: 30px;
+}
+
+/* obrazy */
+.Ges {
+float: right;
+height: 400px;
+margin-top: -60px;
+margin-right: 400px;
+}
+.Koliberpng {
+    float: right;
+    height: 300px;
+    margin-right: 200px;
+}
+ /* Button  */
+.button, .button1 {
+    height: 40px;
+text-align: center;
+font-weight: bolder;
+margin-left: 200px;
+}
+.button:hover,.button1:hover{
+    text-transform: none;
+    text-decoration: none;
+color: black;
+font-weight: bolder;
+}
+/* Footer  */
+.a1 {
+    margin-top: -41px;
+    float: left;
+    margin-left: 5px
+}
+.li {
+    text-align: right;
+    margin-top: -35px;
+}
